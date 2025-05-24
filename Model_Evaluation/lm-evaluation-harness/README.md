@@ -12,6 +12,9 @@ pip install lm-eval[api]
 
 ./lm_eval.sh
 
+# Output:
+
+granite/
 
 # More info:
 gsm8k - A benchmark of grade school math problems aimed at evaluating reasoning capabilities.	
